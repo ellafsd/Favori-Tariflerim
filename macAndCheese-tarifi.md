@@ -4,9 +4,9 @@
 ## *Malzemeler*
 🧀 Mac and Cheese Tarifi (Amerikan Usulü Peynirli Makarna)
 Malzemeler:
-•	250 g makarna (dirsek makarna veya penne)
-•	2 yemek kaşığı tereyağı
-•	2 yemek kaşığı un
+•	250 g makarna (dirsek makarna veya penne) </br>
+•	2 yemek kaşığı tereyağı</br>
+•	2 yemek kaşığı un</br>
 •	2 su bardağı süt
 •	1 çay kaşığı tuz
 •	1/2 çay kaşığı karabiber
