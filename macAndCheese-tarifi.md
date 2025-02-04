@@ -3,16 +3,17 @@
 
 ## *Malzemeler*
 
-•	250 g makarna (dirsek makarna veya penne) </br>
-•	2 yemek kaşığı tereyağı</br>
-•	2 yemek kaşığı un</br>
-•	2 su bardağı süt </br>
-•	1 çay kaşığı tuz</br>
-•	1/2 çay kaşığı karabiber </br>
-•	1/2 çay kaşığı muskat rendesi (isteğe bağlı) </br>
-•	2 su bardağı rendelenmiş cheddar peyniri (veya kaşar peyniri) </br>
-•	1/2 su bardağı rendelenmiş parmesan peyniri </br>
-•	Üzeri için: Galeta unu veya ekstra peynir (isteğe bağlı)
+- 250 g makarna (dirsek makarna veya penne)
+- 2 yemek kaşığı tereyağı
+- 2 yemek kaşığı un
+- 2 su bardağı süt
+- 1 çay kaşığı tuz
+- 1/2 çay kaşığı karabiber
+- 1/2 çay kaşığı muskat rendesi (isteğe bağlı)
+- 2 su bardağı rendelenmiş cheddar peyniri (veya kaşar peyniri)
+- 1/2 su bardağı rendelenmiş parmesan peyniri
+- Üzeri için: Galeta unu veya ekstra peynir (isteğe bağlı)
+
  
 ## *📝 Yapılışı:*</br>
 1.	Makarnayı haşlayın: Büyük bir tencerede suyu kaynatın, tuz ekleyin ve makarnayı al dente kıvamına gelene kadar haşlayın. Süzüp kenara alın.
