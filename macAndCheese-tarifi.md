@@ -10,8 +10,8 @@
 •	1 çay kaşığı tuz</br>
 •	1/2 çay kaşığı karabiber </br>
 •	1/2 çay kaşığı muskat rendesi (isteğe bağlı) </br>
-•	2 su bardağı rendelenmiş cheddar peyniri (veya kaşar peyniri) </br>
-•	1/2 su bardağı rendelenmiş parmesan peyniri </br>
+•	2 su bardağı rendelenmiş cheddar peyniri (veya kaşar peyniri) 
+•	1/2 su bardağı rendelenmiş parmesan peyniri 
 •	Üzeri için: Galeta unu veya ekstra peynir (isteğe bağlı)
  
 ## *📝 Yapılışı:*</br>
