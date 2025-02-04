@@ -1,9 +1,8 @@
-# Mac and Cheese
+# Mac and Cheese(Amerikan Usulü Peynirli Makarna)
 
 
 ## *Malzemeler*
-🧀 Mac and Cheese Tarifi (Amerikan Usulü Peynirli Makarna)</br>
-Malzemeler: </br>
+
 •	250 g makarna (dirsek makarna veya penne) </br>
 •	2 yemek kaşığı tereyağı</br>
 •	2 yemek kaşığı un</br>
